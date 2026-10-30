@@ -3,5 +3,3 @@ allowRemediationCommits:
 
 require:
   members: false
-
-label: do-not-merge/dco
