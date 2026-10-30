@@ -4,4 +4,4 @@ allowRemediationCommits:
 require:
   members: true
 
-label: do-not-merge/dco
+label: "."
