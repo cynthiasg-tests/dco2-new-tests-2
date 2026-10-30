@@ -3,3 +3,5 @@ allowRemediationCommits:
 
 require:
   members: false
+
+label: needs-dco
