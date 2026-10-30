@@ -2,6 +2,6 @@ allowRemediationCommits:
   individual: true
 
 require:
-  members: true
+  members: false
 
-label: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+label: do-not-merge/dco
