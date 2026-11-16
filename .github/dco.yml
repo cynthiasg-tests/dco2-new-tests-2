@@ -1,3 +1,5 @@
+allowOverrideAction: false
+
 allowRemediationCommits:
   individual: true
 
