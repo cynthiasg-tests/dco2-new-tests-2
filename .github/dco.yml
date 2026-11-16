@@ -1,9 +1,5 @@
-allowOverrideAction: false
-
 allowRemediationCommits:
   individual: true
 
 require:
   members: false
-
-label: do-not-merge/dco
